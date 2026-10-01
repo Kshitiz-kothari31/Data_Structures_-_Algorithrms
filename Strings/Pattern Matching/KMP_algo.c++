@@ -1,3 +1,5 @@
+// Problem : Calculate the indices of the occurrences of string s in t.
+
 #include <iostream>
 #include <vector>
 using namespace std;
